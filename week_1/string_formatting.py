@@ -1,0 +1,6 @@
+decimal_number = float(input ("Enter a decimal number"))
+convert_string = str(decimal_number)
+convert_integer = int(decimal_number)
+print (f"The original decimal number is {decimal_number}")
+print (f"The string value is {convert_string}")
+print (f"The integer value is {convert_integer}")
